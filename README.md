@@ -1,3 +1,4 @@
+# Oiii! Eu sou o Adauri
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -7,9 +8,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-# Oiii! Eu sou o Adauri!
 
  <div>
   <a href="https://github.com/adauricampos">
@@ -22,7 +20,7 @@
 <div> 
  
   <a href = "mailto:adauridicampos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/adauricamposdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/adauricamposdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
  
