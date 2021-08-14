@@ -1,4 +1,4 @@
-# Oi! Eu sou o Adauri
+# Hi! I am Adauri Campos 
 
 - 🔭 I’m currently  open to work
 - 🌱 I’m currently learning javascript, java, angular
