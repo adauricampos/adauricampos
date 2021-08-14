@@ -4,19 +4,17 @@
 - 🌱 I’m currently learning javascript, java, angular
 - ⚡ Fun fact: Im music player (sax/piano)
 
- <div>
+<div>
   <a href="https://github.com/adauricampos">
-  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=adauricampos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adauricampos&layout=compact&langs_count=7&theme=dracula"/>
-   
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arielyth&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adauricampos&layout=compact&langs_count=7&theme=nightowl"/>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ada-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ada-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ada-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ada-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ada-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-
- 
  
   ##
  
